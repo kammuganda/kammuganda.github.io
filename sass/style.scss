@@ -236,7 +236,7 @@ figure {
 		height: 700px;
 	}
 	&.fh5co-hero-2{
-		height: 600px;
+		height: 500px;
 
 		.fh5co-overlay{
 			position: absolute !important;
@@ -266,7 +266,7 @@ figure {
 }
 
 .fh5co-cover{
-	background-size: cover;
+	background-size: fill;
 	position: relative;
 	@media screen and (max-width: $screen-sm) {
 		heifght: inherit;
